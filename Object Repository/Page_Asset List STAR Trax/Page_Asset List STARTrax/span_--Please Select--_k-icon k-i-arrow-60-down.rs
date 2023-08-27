@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_--Please Select--_k-icon k-i-arrow-60-down</name>
+   <tag></tag>
+   <elementGuidId>9103f830-1513-48f9-8820-0adc0578c4fa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.k-dropdown-wrap.k-state-default.k-state-hover.k-state-focused > span.k-select > span.k-icon.k-i-arrow-60-down</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='form-add-entry']/div[2]/div[5]/div[2]/span/span/span[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>fb10bf4d-c0f4-4464-9f5a-accb416c5bc1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>k-icon k-i-arrow-60-down</value>
+      <webElementGuid>48fdb375-0aaf-4d09-98c5-e92675eb86d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form-add-entry&quot;)/div[@class=&quot;modal-body added-scroll&quot;]/div[@class=&quot;form-group row&quot;]/div[@class=&quot;col-sm-6&quot;]/span[@class=&quot;k-widget k-dropdown form-control medequip-select&quot;]/span[@class=&quot;k-dropdown-wrap k-state-default k-state-hover k-state-focused&quot;]/span[@class=&quot;k-select&quot;]/span[@class=&quot;k-icon k-i-arrow-60-down&quot;]</value>
+      <webElementGuid>2a1f2e70-5e8b-4a4c-9340-db760abaf966</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form-add-entry']/div[2]/div[5]/div[2]/span/span/span[2]/span</value>
+      <webElementGuid>1abcabd6-3eb0-4071-aa0d-3ba9a4ba8338</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div[2]/span/span/span[2]/span</value>
+      <webElementGuid>aa67e734-a65d-4088-8e0d-4d41198af470</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

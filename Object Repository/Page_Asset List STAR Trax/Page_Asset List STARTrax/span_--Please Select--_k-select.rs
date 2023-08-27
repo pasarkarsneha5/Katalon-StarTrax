@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_--Please Select--_k-select</name>
+   <tag></tag>
+   <elementGuidId>3578b400-47e3-489a-bb7a-187c6cbd1f21</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.k-dropdown-wrap.k-state-default.k-state-hover.k-state-focused > span.k-select</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='form-add-entry']/div[2]/div[4]/div[2]/span/span/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>755a1a0e-127a-4a87-9907-a4b4be703b0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>unselectable</name>
+      <type>Main</type>
+      <value>on</value>
+      <webElementGuid>9c8379f4-754f-4d45-94ac-e7350e703937</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>k-select</value>
+      <webElementGuid>8958dc3a-db3e-45b3-939e-883f1dbc2861</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>ee3f25ee-31af-487b-94b1-1fa36d079d20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form-add-entry&quot;)/div[@class=&quot;modal-body added-scroll&quot;]/div[@class=&quot;form-group row&quot;]/div[@class=&quot;col-sm-6&quot;]/span[@class=&quot;k-widget k-dropdown form-control medequip-select&quot;]/span[@class=&quot;k-dropdown-wrap k-state-default k-state-hover k-state-focused&quot;]/span[@class=&quot;k-select&quot;]</value>
+      <webElementGuid>fcfdeacd-320f-448b-9fd4-dcaf69b8e4fc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form-add-entry']/div[2]/div[4]/div[2]/span/span/span[2]</value>
+      <webElementGuid>baef4a62-30d3-4127-9026-eea121efa05d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='--Please Select--'])[1]/following::span[1]</value>
+      <webElementGuid>926eae97-dde9-491e-9ca6-998ac35ca564</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Model'])[4]/following::span[4]</value>
+      <webElementGuid>0687f563-5bfc-4e36-9ba7-d61fa9d3352b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Facility'])[4]/preceding::span[2]</value>
+      <webElementGuid>9c2dd153-f512-4755-8ccf-78deac5863d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='--Please Select--'])[2]/preceding::span[2]</value>
+      <webElementGuid>45d940f4-723c-4cd8-a9d7-886a497e900e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/span/span/span[2]</value>
+      <webElementGuid>e89a7301-6527-4ff8-bd1b-4ce5e7ecdd19</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

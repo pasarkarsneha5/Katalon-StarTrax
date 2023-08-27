@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>th_Is equal to</name>
+   <tag></tag>
+   <elementGuidId>2b724d89-dfb5-43b6-8438-f25c82357fc4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='grid']/div/div/table/thead/tr[2]/th[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>th</value>
+      <webElementGuid>b516b392-fee1-4b2e-aac5-7562f68c7a30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Is equal to</value>
+      <webElementGuid>75ef574b-8c78-4b85-b8c7-9b834c0a50e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;grid&quot;)/div[@class=&quot;k-grid-header&quot;]/div[@class=&quot;k-grid-header-wrap k-auto-scrollable&quot;]/table[1]/thead[1]/tr[@class=&quot;k-filter-row&quot;]/th[2]</value>
+      <webElementGuid>93e292ba-dca9-4ae9-b592-8f4497fd00e0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='grid']/div/div/table/thead/tr[2]/th[2]</value>
+      <webElementGuid>a834b6ee-67de-4bc2-a3d6-65e0d4465330</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All'])[1]/following::th[8]</value>
+      <webElementGuid>e83a1d39-9695-499d-8bd4-3037d3ee7365</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Is equal to'])[2]/preceding::th[1]</value>
+      <webElementGuid>b418ce1c-7379-461a-aacd-e78182c8dd9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/th[2]</value>
+      <webElementGuid>88a50a1d-b518-4064-96b6-15d9da038b22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//th[(text() = 'Is equal to' or . = 'Is equal to')]</value>
+      <webElementGuid>bc0f2f9a-cf9a-4331-9862-62a0c02e6891</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

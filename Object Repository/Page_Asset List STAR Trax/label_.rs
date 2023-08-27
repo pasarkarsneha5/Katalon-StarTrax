@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_</name>
+   <tag></tag>
+   <elementGuidId>9ccbb41d-80ef-4df6-a06a-d3d2fc1badc4</elementGuidId>
+   <imagePath></imagePath>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td > label.k-checkbox-label.k-no-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='grid']/div[2]/table/tbody/tr/td/label</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@for = 'fd339657-dc94-485f-8bfd-60825f9780d4' and @class = 'k-checkbox-label k-no-text' and (text() = 'before' or . = 'before')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>86840f09-43b5-40b7-80bb-cd6479be43c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>0beb21e3-1536-44d8-a2d7-5e384ae41c51</value>
+      <webElementGuid>0f195f54-163c-47fd-9ba0-a651e1a444f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>k-checkbox-label k-no-text</value>
+      <webElementGuid>b7f4e77e-fc26-4b3a-89f1-d8b039defff3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>​</value>
+      <webElementGuid>7d8cdaae-08ef-4c0f-af06-628976a4aa4d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;grid&quot;)/div[@class=&quot;k-grid-content k-auto-scrollable&quot;]/table[1]/tbody[1]/tr[1]/td[1]/label[@class=&quot;k-checkbox-label k-no-text&quot;]</value>
+      <webElementGuid>9f671442-be21-4d56-a288-7983cd961e60</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='grid']/div[2]/table/tbody/tr/td/label</value>
+      <webElementGuid>f8e367f8-2ba5-4e6c-a09a-c15d08457999</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Is equal to'])[18]/following::label[1]</value>
+      <webElementGuid>1eaf0875-3d64-4f3e-b25a-2f3a5b845dc0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='eq'])[2]/following::label[1]</value>
+      <webElementGuid>785045f8-1cf9-4e89-9f2d-3838d462c1e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Carefusion Alaris'])[1]/preceding::label[1]</value>
+      <webElementGuid>4047bef1-a815-4766-840d-f1bee7494215</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alaris PC Unit'])[1]/preceding::label[1]</value>
+      <webElementGuid>5419e5a8-6a89-4b52-a8fe-e179480c4283</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/label</value>
+      <webElementGuid>3c10820d-2cc5-401e-8972-6f32926ab5f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = '​' or . = '​')]</value>
+      <webElementGuid>95577626-70d1-4342-86ee-2868f98416e6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
