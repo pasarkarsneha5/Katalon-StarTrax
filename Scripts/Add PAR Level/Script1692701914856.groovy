@@ -33,12 +33,11 @@ WebUI.click(findTestObject('Object Repository/Page_PAR Level List STARTrax/span_
 
 WebUI.click(findTestObject('Object Repository/Page_PAR Level List STARTrax/li_105'))
 
-WebUI.setText(findTestObject('Object Repository/Page_PAR Level List STARTrax/input_Min PAR Level_Min'), '10')
+WebUI.setText(findTestObject('Object Repository/Page_PAR Level List STARTrax/input_Min PAR Level_Min'), '15')
 
 WebUI.setText(findTestObject('Object Repository/Page_PAR Level List STARTrax/input_Max PAR Level_Max'), '15')
 
 WebUI.click(findTestObject('Object Repository/Page_PAR Level List STARTrax/button_Add'))
-
 
 WebUI.click(findTestObject('Object Repository/Page_PAR Level List STARTrax/a_Is equal to_k-icon k-i-expand'))
 
