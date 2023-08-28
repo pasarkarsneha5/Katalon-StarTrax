@@ -35,7 +35,7 @@ WebUI.click(findTestObject('Object Repository/Page_PAR Level List STARTrax/li_10
 
 WebUI.setText(findTestObject('Object Repository/Page_PAR Level List STARTrax/input_Min PAR Level_Min'), '10')
 
-WebUI.setText(findTestObject('Object Repository/Page_PAR Level List STARTrax/input_Max PAR Level_Max'), '15')
+WebUI.setText(findTestObject('Object Repository/Page_PAR Level List STARTrax/input_Max PAR Level_Max'), '20')
 
 WebUI.click(findTestObject('Object Repository/Page_PAR Level List STARTrax/button_Add'))
 
