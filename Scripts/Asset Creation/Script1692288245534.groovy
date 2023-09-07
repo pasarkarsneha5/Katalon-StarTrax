@@ -25,7 +25,7 @@ WebUI.navigateToUrl('https://startrax-online-stage.azurewebsites.net/Asset')
 
 WebUI.click(findTestObject('Object Repository/Page_Asset List STARTrax/input_Export_btn-create-entry'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Asset List STARTrax/input_Barcode_Barcode'), '060707')
+WebUI.setText(findTestObject('Object Repository/Page_Asset List STARTrax/input_Barcode_Barcode'), '870982')
 
 WebUI.setText(findTestObject('Object Repository/Page_Asset List STARTrax/input_Serial Number_SerialNumber'), '060607')
 
