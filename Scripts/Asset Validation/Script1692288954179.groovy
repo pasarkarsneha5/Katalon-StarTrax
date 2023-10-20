@@ -31,7 +31,7 @@ WebUI.setText(findTestObject('Object Repository/Page_Asset List STARTrax/input_B
 
 WebUI.click(findTestObject('Object Repository/Page_Asset List STARTrax/button_Add'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Asset List STARTrax/input_Serial Number_SerialNumber'), '222222222')
+WebUI.setText(findTestObject('Object Repository/Page_Asset List STARTrax/input_Serial Number_SerialNumber'), '2222222202')
 
 WebUI.click(findTestObject('Object Repository/Page_Asset List STARTrax/span_--Please Select--_k-select'))
 
